@@ -1,0 +1,1 @@
+This repository contains 100 mini projects built using Python on Repl.it as a part of their "100 Days of Code Challenge."  
