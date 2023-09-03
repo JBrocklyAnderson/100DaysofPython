@@ -1,0 +1,1 @@
+This is a classic Rock, Paper, Scissors-style game that takes inspiration from the classic four elements: earth (e), air (a), fire (f), and water (w). I also added spacetime (s) to ensure the operability of the game mechanics. 
