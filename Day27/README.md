@@ -1,0 +1,1 @@
+This program Forms the basis of the game that I built in Day28. It prompts a user to create one or many characters, then uses randomization to set the characters' health and strength stats.
