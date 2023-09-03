@@ -46,12 +46,12 @@ def battle(char1, char2):
     print("💀 THE BATTLE BEGINS 💀")
     roll1, roll2 = random.randint(1, 6), random.randint(1, 6)
     if roll1 > roll2:
-      damage = abs(char1[3] - char2[3])
+      damage = abs(char1[3] - char2[3]) + 0.5
       char2[2] -= damage
       print(f"{char1[0]} wins round {round_number}!")
       print(f"{char2[0]} takes {damage} damage.")
     elif roll2 > roll1:
-      damage = abs(char2[3] - char1[3])
+      damage = abs(char2[3] - char1[3]) + 0.5
       char1[2] -= damage
       print(f"{char2[0]} wins round {round_number}!")
       print(f"{char1[0]} takes {damage} damage.")
