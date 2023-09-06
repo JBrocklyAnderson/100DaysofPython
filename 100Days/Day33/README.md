@@ -1,0 +1,1 @@
+This program presents a user with menu functions amicable to making, editing, and viewing a simple to-do list. The project was designed to explore the functionality of dynamic lists.  
