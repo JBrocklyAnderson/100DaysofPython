@@ -1,1 +1,1 @@
-This program randomly prints out international greetings.
+This program randomly prints out international greetings. The project was designed to explore the functionality and syntax of list-making and to encourage cross-cultural awareness. 
