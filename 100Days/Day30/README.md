@@ -1,1 +1,1 @@
-This program uses advanced print function arguments to ask what those going through Repl.it's 100 days of Python felt about each day up until day 30.
+This program uses advanced print function arguments (formating, alignment, `end` and `sep` arguments, etc.) to ask what those going through Repl.it's 100 days of Python felt about each day up until Day 30. 

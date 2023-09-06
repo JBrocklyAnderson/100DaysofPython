@@ -1,0 +1,1 @@
+Can you beat the odds? Do what's 65 times less likely than getting struck by lighting and guess a random number between 1 and 1,000,000. This is the first time the 100 day challenge introduces the `random` library. This particular program is an evolution of an earlier day's program tempting the user to guess the number I had set with if-else statements.  

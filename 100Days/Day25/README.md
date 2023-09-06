@@ -1,0 +1,1 @@
+This generator produces six randomized stat values for every character you name. The stat domains filled by the randomization subroutine are inspired by other role-playing games, though their exact values and probabilities may not conform exactly.  

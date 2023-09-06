@@ -1,0 +1,1 @@
+This project stores a dictionary of ANSI escape code color values. 

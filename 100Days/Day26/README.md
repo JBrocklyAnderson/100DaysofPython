@@ -1,0 +1,1 @@
+This program builds a very simple menu that a user can use to play and pause an audio file. The menu explores the usage of the `os` and `time` libraries, subroutines, while loops, and if-else statements. 

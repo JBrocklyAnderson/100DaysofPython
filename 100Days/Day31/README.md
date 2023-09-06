@@ -1,1 +1,1 @@
-This program uses a dictionary of colors and advanced print function alignment syntax to create replicas of classic user interfaces.
+This program uses a dictionary of colors and advanced print function alignment syntax to create replicas of classic user interfaces for a music and social media app.
