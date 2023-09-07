@@ -1,0 +1,1 @@
+This program is an email list for LiquiGold LLC. Representatives of the company can add emails, remove them, display the list they've created, and send the first 10 email addresses a pre-crafted sales message.
