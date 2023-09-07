@@ -1,0 +1,1 @@
+This program counts a total dollar amount in interest based on a loan of $1000 to be paid back over ten years with an APR of 5%. 

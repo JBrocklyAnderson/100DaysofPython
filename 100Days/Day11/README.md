@@ -1,0 +1,1 @@
+This simple program calculates how many seconds are in the year of your choosing, Regardless of whether that year is regular or leap. It does this by making use of the `%` operand.

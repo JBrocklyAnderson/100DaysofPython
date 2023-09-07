@@ -1,0 +1,1 @@
+Who wants to play some "Rock, Paper, Scissors"? This program emulates the classic kids' game using a series of if-else statements. I created a much more elaborate version on Day 17.

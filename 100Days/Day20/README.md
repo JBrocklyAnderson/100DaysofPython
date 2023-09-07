@@ -1,0 +1,1 @@
+This generator demonstrates use and knowledge of the range function in Python. It will print out a range according to your starting value, ending value, and incremental value. Keep in mind that if your starting value is greater than your ending value, then your incremental value must be negative for the code to function properly.

@@ -1,0 +1,1 @@
+This program generates a positive affirmation every day to motivate you through the week. Just for fun. 

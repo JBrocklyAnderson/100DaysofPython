@@ -1,0 +1,1 @@
+This program will determine how much you owe for a meal out with friends. Simply tell the program what the total bill is and how many people went out to eat.

@@ -1,0 +1,10 @@
+print("Welcome to a simple range generator. This code will print out a range according to your starting value, ending value, and incremental value.")
+print()
+print(" Keep in mind that if your starting value is greater than your ending value, then your incremental value must be negative.")
+print()
+start = int(input("Start at: "))
+end = int(input("End right before: "))
+increment = int(input("Proceed by: "))
+print()
+for i in range(start, end, increment):
+  print(i)

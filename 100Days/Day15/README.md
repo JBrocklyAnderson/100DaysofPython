@@ -1,0 +1,1 @@
+This Repl replicates the baby's toy where you press a button with the picture of an animal on it and it makes a sound, though this program prints out the onomatopoeia of the sound it makes. The slowly terrifying and ironic cover photo makes it even better.

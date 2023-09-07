@@ -1,0 +1,8 @@
+print("Use this calculator to figure out how much each person owes at a restaurant.")
+print()
+bill = float(input("How much is the bill? "))
+guests = int(input("How many people are splitting the tab? "))
+tip = int(input("What percent do we want to leave as a tip? "))
+share = (bill / guests) + (tip / guests)
+share = round(share, 2)
+print("We each owe $", share, ". Condolences to the chef!")

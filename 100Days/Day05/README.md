@@ -1,0 +1,1 @@
+A very basic program to determine what superpower you possess.
