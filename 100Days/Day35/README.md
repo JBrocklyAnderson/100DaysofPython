@@ -1,1 +1,1 @@
-This program allows you to add to, edit, and remove items from a to-do list, view the list,  and clear the list. it prevents the entry of duplicates and asks for confirmation before removal and clearing. I've also stylized the program with various ANSI escape codes. 
+This program allows you to add to, edit, and remove items from a to-do list, view the list,  and clear the list. It prevents the entry of duplicates and asks for confirmation before removal and clearing. I've also stylized the program with various ANSI escape codes. 
