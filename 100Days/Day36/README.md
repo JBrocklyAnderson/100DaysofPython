@@ -1,0 +1,1 @@
+This program allows an event planner to build a list of attendees for an event by adding , editing, and removing names, clearing the list, and exiting the program. It prevents the insertion of duplicate names and recognizes when names to be removed we're never on the list. It clears the screen at optimal intervals to give the user a clean and organized interface.
