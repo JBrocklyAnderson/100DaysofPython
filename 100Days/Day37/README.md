@@ -1,0 +1,1 @@
+This program takes the first three letters of your first name, the first three letters of your last name, The first three letters of your mother's maiden name, and the last two letters of the city that she was born in. It then combines these letters into your new Star Wars name.
