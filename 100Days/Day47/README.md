@@ -1,0 +1,3 @@
+# Top Trumps Knockoff
+
+This program emulates British card game Top Trumps with an anime twist wherein a player will compete against the computer until either scores 3 points. The player has ultimate control over preset characters and can add, edit, and remove their own. Theoretically, players have the ability to change the entire category of the card game so long as the game logic accords with the concept of character stats.
