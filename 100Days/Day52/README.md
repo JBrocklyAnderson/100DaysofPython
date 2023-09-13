@@ -1,0 +1,3 @@
+# Pizza Ordering System
+
+This program allows a user to enter pizza order details into a file from which we can then extract a list of orders comprised of customers names, pizza sizes, quantity sold, and total sale. It uses auto-loading and auto-saving in conjunction with `try` and `else` blocks to prevent invalid user inputs and execute the program without traceback errors in the absence of initial order data.
