@@ -109,7 +109,7 @@ while True:
 \033[32mAdd\033[0m Item? (a)
 \033[33mEdit\033[0m Item? (e)
 \033[31mRemove\033[0m Item? (r)
-\033[31mClear\033[0m Item? (c)
+\033[31mClear\033[0m List? (c)
 \033[34mExit\033[0m List? (x)\n\n""").strip().lower()
 
   view = ["v", "view"]
