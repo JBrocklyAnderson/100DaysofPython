@@ -84,6 +84,7 @@ def playGame():
       else:
         print()
         print(f"Captain, you did it! You hacked the starship, which gave you access to the escape pod's control panel. With just {countdown} minutes to spare, you slide the crew into the pod, close the door, shoot off into space, and watch the ship disintegrate from an ever-safer distance. Destination: Earth. Status: Alive.")
+        time.sleep(25)
       break
   
   # once the minutes fall to 0
@@ -92,5 +93,6 @@ def playGame():
     print(f"'\033[31m{password}\033[0m' has eluded us...")
     print()  
     print("A warbling begins—slowly, at first, but its oscillations quicken their frenzy until—BOOM! All you can see is shrapnel, wiring, and the alien beauty of the infinite cosmos. All you can feel is the icy grip of an eternal abyss.")
+    time.sleep(25)
 
 playGame()
