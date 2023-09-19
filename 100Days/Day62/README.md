@@ -1,0 +1,3 @@
+# Private Journal
+
+This program allows a user to lock timestamped journal entries behind an authentification system. It currently uses UTC to timestamp journal entries. This limits the functionality of the view by search" function if the user and their operating system do not exist in the time zone. Theoretical improvements that I could make to this code include handling time zone differences between what the program stores as a timestamp and what the user inputs as their search date. This would require converting the search input found within the view function into a date object based on the user and their operating system's local time. This is beyond the scope of the challenge, but would be interesting to explore in the future. 
