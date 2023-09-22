@@ -1,0 +1,3 @@
+# Simple Calculator
+
+We're heading into the 1990s here. This program defines the necessary functions of a simple arithmetic calculator and uses a Python module called `tkinter` in order to set the calculator within a basic graphic user interface. I experimented with various attributes defined within `tkinter`'s `Label` and `Button` functions to avoid a recurring issue wherein large input numbers inflated the space between button rows, but each alteration came with pros and cons. None of them seemed to resolve the underlying issue, so I widened the buttons which gave more room to the input text before it inflated the columns. 
