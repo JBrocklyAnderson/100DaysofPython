@@ -44,7 +44,7 @@ katie = ImageTk.PhotoImage(Image.open(".tutorial/GuessWho/katie.jpg"))
 mo = ImageTk.PhotoImage(Image.open(".tutorial/GuessWho/mo.jpg"))
 
 # place images in canvas
-container = canvas.create_image(200, 1, image = charlotte)
+container = canvas.create_image(200, 0, image = charlotte)
 
 # run the main loop
 tk.mainloop()
