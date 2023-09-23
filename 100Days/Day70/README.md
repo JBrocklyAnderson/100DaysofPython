@@ -1,0 +1,3 @@
+# Truly Secret Passwords
+
+When we program code in Repl.it, the "secret" passwords and usernames we may include are not actually impossible to retrieve. All it takes is another programmer to fork our code. With Repl.it's Secrets tab, we can add a much stronger layer of security through secret `key:value` pairs that will not be copied when the program is forked. This program is a demonstration of that concept and mechanism.
