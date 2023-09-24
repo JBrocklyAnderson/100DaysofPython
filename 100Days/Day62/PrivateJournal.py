@@ -63,13 +63,13 @@ def viewJournal(start = 0): ## set the function to start at index 0
           clearScreen()
           print("These are your oldest entries.\n")
       elif direction == "p":
-        if start == 0: # so long as the user isn't viewing the most recent entries (`start = 1` would mean 1 more recent entry exists) 
+        if start == 0: # so long as the user is viewing the most recent entries (`start = 1` would mean 1 more recent entry exists) 
           clearScreen()
           print("These are your most recent entries.\n")
         else:
           clearScreen()
           start -= 3 ## move the index backward
-          entries = list(sorted(db.keys(), reverse = True))[start:start + 3] ## update the variable to call new indices
+          entries = list(sorted(db.keys(), reverse = True))[start:start + 3] ## update the variable to call the first 3 indices
       elif direction == "b":
         return
       else:
