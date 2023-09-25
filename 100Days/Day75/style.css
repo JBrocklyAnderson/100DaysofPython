@@ -1,0 +1,101 @@
+html, body {
+  width: 100%;
+  background-color: #16347c;
+  padding-bottom: 2vh;
+}
+
+/* container holding the image and text */
+.imageContainer {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+/* container holding the image and text */
+.imageContainer img {
+  width: 100%;
+  height: 100%;
+}
+
+/* define global attributes for image text */
+.imageText {
+  position: absolute;
+  font-family: serif;
+  color: #16347c;
+  background-color: #d6b437;
+  font-size: 6vw;
+}
+
+.image1Text {
+  top: 0vw;
+}
+
+.image2Text {
+  top: 10vw;
+}
+
+.image3Text {
+  top: 20vw;
+}
+
+.image4Text {
+  font-size: 6.5vw;
+  top: 30vw
+}
+
+/* linktree */
+#linktree {
+  float: left;
+  width: 20%;
+  border-style: solid;
+  border-color: #d6b437;
+  border-width: 1vw;
+}
+
+#linktree ul {
+  list-style-type: none;
+  padding: 0%;
+  background-color: #16347c;
+  text-align: center; 
+}
+
+/* adjust the space between links */
+#linktree ul li {
+  margin-bottom: 1vw;
+}
+
+/* stylize the links themselves */
+#linktree ul li a {
+  text-decoration: none;
+  font-size: 3vw;
+  color: #d6b437;
+}
+
+#linktree ul li a:hover {
+  background-color: #a92486;
+}
+
+/* heading section */
+.heading {
+  margin-left: 25%;
+}
+
+.heading h1 {
+  font-family: sans-serif;
+  color: #16347c;
+  background-color: #d6b437;
+  font-size: 4vw;
+  margin-right: 4vw;
+}
+  
+/* main text */
+p {
+  position: relative;
+  font-family: sans-serif;
+  font-size: 2vw;
+  margin: 3vw;
+  margin-right: 4vw;
+  text-indent: 2vw;
+  text-align: justify;
+  color: #d6b437
+}
