@@ -1,0 +1,53 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #1c2333
+}
+
+a {
+  color: #55a8fa;
+}
+
+body {
+  padding-bottom: 50px;
+}
+
+h1, h2 {
+  text-align: center;
+  font-family: serif;
+  font: copperplate; 
+  color: #ecf3f9;
+  background-color: #0053a6;
+}
+
+h2 {
+  color: #bfffca;
+  background-color: #044a10;
+  font-family: sans-serif
+}
+
+p {
+  text-indent: 2em;
+  text-align: justify;
+  color: #c2c8cc;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+ul {
+  text-align: center;
+}
+
+li {
+  display: inline;
+}
+
