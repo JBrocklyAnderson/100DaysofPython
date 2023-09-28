@@ -1,0 +1,3 @@
+# Login Page
+
+This program introduces the use of HTML form tags in order to capture, structure, and transfer user data from the front end to the back end for further processing. Specifically, it captures a username, email, and password which—if I had to guess—I'll be combining with previous concepts (Flask, route variables, CSS, password hashing and salting, and all the various Python concepts used to construct my cybersecure journal of Day 72) to create a functioning website that can accord individuals with their own secure accounts.  
