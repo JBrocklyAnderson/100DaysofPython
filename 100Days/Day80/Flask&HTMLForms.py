@@ -1,4 +1,4 @@
-from flask import Flask, request, redirect, url_for
+from flask import Flask, request
 
 app = Flask(__name__, static_url_path='/static')
 
@@ -7,12 +7,6 @@ accounts = {}
 accounts["username1"] = {"email": "username1@gmail.com", "password": "password1"}
 accounts["username2"] = {"email": "username2@gmail.com", "password": "password2"}
 accounts["username3"] = {"email": "username3@gmail.com", "password": "password3"}
-
-"""
-@app.route("/process", methods=["GET"])
-def processGET():
-  return redirect(url_for('login'))
-"""
 
 @app.route("/process", methods=["POST"])
 def process():
