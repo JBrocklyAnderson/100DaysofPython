@@ -1,0 +1,67 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-image: url('/static/images/background.jpg');
+  background-size: cover; /* ensure the image covers the entire viewport */
+  background-position: center center; /* center the image along both axes */
+  background-repeat: repeat; /* prevent image tiling */
+  background-attachment: fixed; /* fix the image when scrolling */
+}
+
+.text-gradient {
+  background: linear-gradient(#00ff1e, #002aff, #a600ff);
+  -webkit-background-clip: text; /* clip text from background */
+  color: transparent /* remove color from text so background appears */
+}
+
+.text-gradient a { /*  */
+  background: linear-gradient(#00ff1e, #002aff, #a600ff);
+  -webkit-background-clip: text;
+  color: transparent
+}
+
+.text-gradient a:hover { /* change color on mouse-over */
+  background: linear-gradient(#00800f, #001580, #530080);
+  -webkit-background-clip: text;
+  color: transparent
+}
+
+h1, h2, h3 {
+  font-family: monospace;
+  font-weight: extra-bold;
+  font-size: 12vh;
+  text-align: center;
+  padding: 0;
+}
+
+h2 {
+  font-size: 8vh;
+}
+
+h3 {
+  font-size: 5vh;
+}
+
+p {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  font-size: 2vh;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-indent: 2vw;
+  padding: 20px;
+}
+img {
+  background-color: #1c2333;
+  padding: 1vw;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
