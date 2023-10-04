@@ -1,0 +1,3 @@
+# Repl Auth Blog Engine
+
+This program is a simplified version of yesterday's web application that utilizes the functionality of Repl.it's Repl Auth tool, which takes the responsibility of developing conditional logic, session handling, and cryptographic practices out of our hands as software developers. Now, the webpage asks that the user login to Replit, and if they are myself, then they can add to the blog entries.  
