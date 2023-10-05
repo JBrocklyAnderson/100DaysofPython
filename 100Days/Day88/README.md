@@ -1,0 +1,3 @@
+# Replit's Custom Authentication
+
+This is yet another simplification and/or extension of the blog engine web application that I've been working on for the past few days. It uses Replit's in-built authentication tool but with a customizable button that allows me to control which pages are locked behind the login function. This allows me to display a home page of blog entries to anyone on the Internet without requiring them to create a Replit account, while preventing anyone but me from logging into the site to add entries.
