@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Topify</title>
+    <link href="/static/style.css" rel="stylesheet" type="text/css" />
+  </head>
+
+<body>
+  <h1>Topify</h1>
+  <h2>Discover the top songs of any year!</h2>
+  <form action='/' method="post">
+    <label for="year">Year: </label>
+      <input type="number" name="year" min="1900" max="{currentYear}" value="{year}" placeholder="{currentYear}">
+    <button type="submit">Go</button>
+    {songs}
+  </form>
+</body>
+</html>
