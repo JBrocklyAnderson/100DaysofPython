@@ -1,0 +1,5 @@
+# Replit Reporter
+
+This program is designed to automate the web scraping of new events from the Replit community hub and notify me via email when new events are added. It employs the `requests` module to fetch the webpage, BeautifulSoup from the `bs4` module to parse the HTML and extract event data, Replit's internal database  to track processed events ensuring only new events trigger notifications, the `smtplib` and `email` modules to facilitate the construction and sending of email notifications, the `schedule` and `time` modules to run the scraping function at regular intervals, and the `logging` module to capture successful scrapes and errors, aiding in monitoring and debugging. The logic within the `repl` function checks against the database before processing events, thus ensuring the user is only notified of new events, and the scheduling logic in the script allows for continuous operation, checking for new events every week.
+
+NOTE: The log file displays two successful scrapes separated by 15 seconds, which I set to  the functionality of the logging system before changing back to one week.
